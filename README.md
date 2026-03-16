@@ -14,7 +14,7 @@ Adjust as needed.
 ### Individual Contributor Agenda
 
 * What topics do you have? (E.g., PTO, what's giving/taking energy.)
-* What accomplishments have you made since our last meeting?
+* Any completed accomplishments to highlight? (No pressure if not.)
 * Review long running tickets and prioritize.
 * Review code metrics.
 * What can I help with?
@@ -23,7 +23,7 @@ Adjust as needed.
 
 * What topics do you have? (E.g., PTO, what's giving/taking energy.)
 * What initiative progress has been made since our last meeting?
-* What accomplishments have you made since our last meeting?
+* Any completed accomplishments to highlight? (No pressure if not.)
 * What can I help with?
 
 ### Off-Team Peer Agenda
