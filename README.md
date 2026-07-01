@@ -4,27 +4,34 @@
 
 ### Initial Frequency
 
-Adjust as needed.
-
 * For embedded team reports: 30 minutes every 2 weeks
 * For off-team reports: 30 minutes every 1 week
 
 ## Agendas
 
-### Individual Contributor Agenda
-
-* What topics do you have? (E.g., PTO, what's giving/taking energy.)
-* Any completed accomplishments to highlight? (No pressure if not.)
-* Review long running tickets and prioritize.
-* Review code metrics.
-* What can I help with?
-
 ### Manager/Lead/Principal Agenda
 
-* What topics do you have? (E.g., PTO, what's giving/taking energy.)
-* What initiative progress has been made since our last meeting?
-* Any completed accomplishments to highlight? (No pressure if not.)
-* What can I help with?
+* Check in/catch up
+* Your topics
+* Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
+* Career development: completed accomplishments, goal progress
+* Anything I can help with?
+
+### Skip-Level Agenda
+
+* Check in/catch up
+* Your topics
+* Career development: completed accomplishments, goal progress
+* Team health/process optimization: collaboration, friction, workload
+* Anything I can help with?
+
+### Individual Contributor Agenda
+
+* Check in/catch up
+* Your topics
+* Career development: completed accomplishments, goal progress
+* Developer health: code/PR/ticket metrics
+* Anything I can help with?
 
 ### Off-Team Peer Agenda
 
@@ -37,13 +44,14 @@ Adjust as needed.
 
 ### On-Team Peer Agenda
 
-* Anything we need to partner on?
-* What is giving you/your team energy? What is draining?
-* What are you working on for learning/career-building?
+* Check in/catch up
+* Team progress: sprint goals, quarterly initiatives
+* Career development: recent learning, goal progress
 
 ### Skip-Level Agenda
 
-* Tell/show me what epics you've been making progress on.
-* Tell me about what you've done lately for career-building.
-* Give an update on your manager/lead.
-* What can I help with?
+* Check in/catch up
+* Your topics
+* Career development: completed accomplishments, goal progress
+* Team health/process optimization: collaboration, friction, workload
+* Anything I can help with?
