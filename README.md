@@ -29,6 +29,7 @@
 
 * Check in/catch up
 * Your topics
+* What are you working on?
 * Career development: completed accomplishments, goal progress
 * Developer health: code/PR/ticket metrics
 * Anything I can help with?
