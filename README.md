@@ -12,6 +12,7 @@
 ### Manager/Lead/Principal Agenda
 
 * Check in/catch up
+* Review incomplete TODOs
 * Your topics
 * Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
 * Career development: completed accomplishments, goal progress
@@ -21,13 +22,14 @@
 
 * Check in/catch up
 * Your topics
-* Career development: completed accomplishments, goal progress
+* Career development: what are you working on, completed accomplishments, goal progress
 * Team health/process optimization: collaboration, friction, workload
 * Anything I can help with?
 
 ### Individual Contributor Agenda
 
 * Check in/catch up
+* Review incomplete TODOs
 * Your topics
 * Career development: completed accomplishments, goal progress
 * Developer health: code/PR/ticket metrics
@@ -47,12 +49,3 @@
 * Check in/catch up
 * Team progress: sprint goals, quarterly initiatives
 * Career development: recent learning, goal progress
-
-### Skip-Level Agenda
-
-* Check in/catch up
-* Your topics
-* What are you working on?
-* Career development: completed accomplishments, goal progress
-* Team health/process optimization: collaboration, friction, workload
-* Anything I can help with?
