@@ -14,7 +14,7 @@
 * Check in/catch up
 * Review incomplete TODOs
 * Your topics/what can I help with?
-* Talent: who is critical, needs more work, underperforms, has a high bus factor, resists change?
+* Talent: who is critical, needs more work, has high bus factor? Who doesn't fit, resists change, underperforms?
 * Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
 * Career development: completed accomplishments, goal progress
 
