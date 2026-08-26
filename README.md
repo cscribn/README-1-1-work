@@ -9,7 +9,7 @@
 
 ## Agendas
 
-### Manager/Lead/Principal Agenda
+### Manager/Lead/Principal Themes
 
 * Check in/catch up
 * Review incomplete TODOs
@@ -18,7 +18,7 @@
 * Career development: completed accomplishments, goal progress
 * Anything I can help with?
 
-### Skip-Level Agenda
+### Skip-Level Themes
 
 * Check in/catch up
 * Your topics
@@ -26,7 +26,7 @@
 * Team health/process optimization: collaboration, friction, workload
 * Anything I can help with?
 
-### Individual Contributor Agenda
+### Individual Contributor Themes
 
 * Check in/catch up
 * Review incomplete TODOs
@@ -44,7 +44,7 @@
 * Explore intersections (5 min): overlaps or opportunities to accelerate each other's work.
 * Capture actions.
 
-### On-Team Peer Agenda
+### On-Team Peer Themes
 
 * Check in/catch up
 * Team progress: sprint goals, quarterly initiatives
