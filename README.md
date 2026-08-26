@@ -9,31 +9,37 @@
 
 ## Agendas
 
-### Manager/Lead/Principal Themes
+### Manager Themes
 
 * Check in/catch up
 * Review incomplete TODOs
-* Your topics
+* Your topics/what can I help with?
+* Talent: who is critical, needs more work, underperforms, has a high bus factor, resists change?
 * Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
 * Career development: completed accomplishments, goal progress
-* Anything I can help with?
+
+* ### Lead/Principal Themes
+
+* Check in/catch up
+* Review incomplete TODOs
+* Your topics/what can I help with?
+* Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
+* Career development: completed accomplishments, goal progress
 
 ### Skip-Level Themes
 
 * Check in/catch up
-* Your topics
+* Your topics/what can I help with?
 * Career development: what are you working on, completed accomplishments, goal progress
 * Team health/process optimization: collaboration, friction, workload
-* Anything I can help with?
 
 ### Individual Contributor Themes
 
 * Check in/catch up
 * Review incomplete TODOs
-* Your topics
+* Your topics/what can I help with?
 * Career development: completed accomplishments, goal progress
 * Developer health: code/PR/ticket metrics
-* Anything I can help with?
 
 ### Off-Team Peer Agenda
 
