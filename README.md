@@ -18,7 +18,7 @@
 * Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
 * Career development: completed accomplishments, goal progress
 
-* ### Lead/Principal Themes
+### Lead/Principal Themes
 
 * Check in/catch up
 * Review incomplete TODOs
