@@ -16,7 +16,7 @@
 * Your topics/what can I help with?
 * Talent: who is critical, needs more work, has high bus factor? Who doesn't fit, resists change, underperforms?
 * Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
-* Career development: completed accomplishments, goal progress
+* Career development: goal progress, completed accomplishments
 
 ### Lead/Principal Themes
 
@@ -24,7 +24,7 @@
 * Review incomplete TODOs
 * Your topics/what can I help with?
 * Team health: sprint goals, quarterly initiatives, code/PR/ticket metrics
-* Career development: completed accomplishments, goal progress
+* Career development: goal progress, completed accomplishments
 
 ### Skip-Level Themes
 
@@ -38,7 +38,7 @@
 * Check in/catch up
 * Review incomplete TODOs
 * Your topics/what can I help with?
-* Career development: completed accomplishments, goal progress
+* Career development: goal progress, completed accomplishments
 * Developer health: code/PR/ticket metrics
 
 ### Off-Team Peer Agenda
