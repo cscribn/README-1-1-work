@@ -31,7 +31,7 @@
 * Check in/catch up
 * Your topics/what can I help with?
 * Career development: what are you working on, completed accomplishments, goal progress
-* Team health/process optimization: AI, collaboration, friction, workload
+* Team health/process optimization: **AI**, **QueueZero**, collaboration, friction, workload
 
 ### Individual Contributor Themes
 
